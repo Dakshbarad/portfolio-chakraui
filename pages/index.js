@@ -89,10 +89,6 @@ const Home = () => {
             blandit congue justo quis suscipit. Sed imperdiet consectetur nunc
             et volutpat. Vestibulum blandit arcu at vulputate cursus. Proin
             finibus diam in.
-            <NextLink href="/" passHref>
-              <Link target="_blank">Dev as Life</Link>
-            </NextLink>
-            &quot; has more than 100k subscribers.
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/works" passHref scroll={false}>
